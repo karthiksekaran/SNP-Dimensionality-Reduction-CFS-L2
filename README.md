@@ -32,7 +32,7 @@ This system is developed with Python 3.6.2 (Pycharm + Anaconda Environment), Win
    3. Removal of Redundant Features.py
    4. CFS-L2-Regularization.py
    5. Classification and AUROC visualization.py
-   6. SNP-Breast.csv (Identified Gene SNP Biomarkers of Breast Cancer)
+   6. SNP-Breast.csv (Identified Gene SNP Biomarkers of Breast Cancer and its chromosome positions)
   As the size of the SNP dataset exceeds the given limit, the link from where the data is scraped to conduct this experiment is given below:
   
   https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE16619
