@@ -36,3 +36,5 @@ This system is developed with Python 3.6.2 (Pycharm + Anaconda Environment), Win
   As the size of the SNP dataset exceeds the given limit, the link from where the data is scraped to conduct this experiment is given below:
   
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE67047
+
+To simplify the process of running this code for other users, a basic GUI is developed using WxPython Library. Execute "0.Main_GUI.py" File to view the Components of the Interface
